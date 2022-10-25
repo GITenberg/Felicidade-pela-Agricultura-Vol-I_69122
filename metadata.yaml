@@ -1,5 +1,8 @@
 _repo: Felicidade-pela-Agricultura-Vol-I_69122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69122-h/images/cover.jpg
 creator:
   author:
     agent_name: Castilho, Antonio Feliciano de
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8440
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feliciano_de_Castilho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69122#Felicidade-pela-Agricultura-Vol-I
 gutenberg_issued: '2022-10-10'
 identifiers:
   gutenberg: '69122'
